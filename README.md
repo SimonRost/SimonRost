@@ -27,7 +27,7 @@ Despite limited time, I taught myself during the last few months:
 
 <br>
 
-My approach is hands-on: I learn by building and sharing my journey. I believe real growth happens when we stop hiding behind perfection(ism) and start showing our progress. That's why I build this page and why I’m sharing all my learning projects **here on GitHub**:
+My approach is hands-on: I learn by building and sharing my journey. I believe real growth happens when we stop hiding behind perfection(ism) and start showing our progress. That's why I build <a href="https://www.simonrost.com" target="_blank" rel="noopener noreferrer">my homepage</a> and why I’m sharing all my learning projects **here on GitHub**:
 
 <p align="center">
     <a href="https://github.com/simonrost/cs-learning-journey" target="_blank" rel="noopener noreferrer">
