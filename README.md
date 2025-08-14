@@ -39,7 +39,7 @@ My approach is hands-on: I learn by building and sharing my journey. I believe r
 
 ---
 
-### 💡 My Philosophy
+### My Philosophy
 
 ```text
 “Progress over perfection.”
@@ -54,11 +54,11 @@ My goal is not to be flawless but to be consistent and curious.
 
 <br>
 
-### 📫 Connect with Me
+### Connect with Me
 <br>
 <p align="left">
   <a href="https://www.linkedin.com/in/simon-rost/" target="_blank" rel="noopener noreferrer">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
+    LinkedIn
   </a>
 </p>
 <p align="left">
