@@ -5,12 +5,12 @@
 <h1 align="center">👋 Hi, I'm Simon</h1>
 
 <p align="center">
-  <em>Transitioning into Computer Science | Self-Taught Dev & CS Student (from Fall 2025)</em>
+  <em>Transitioning into Computer Science | Self-Taught Dev & CS Student</em>
 </p>
 
 <br>
 
-At 35, I decided to pursue a lifelong passion for technology. After years of working in other fields and raising two kids, I’m now making a career change that truly matters to me: I'll be starting a **part-time Computer Science degree** in Fall 2025.
+At 36, I decided to pursue a lifelong passion for technology. After years of working in other fields and raising two kids, I’m now making a career change that truly matters to me: I'll be starting a **part-time Computer Science degree** in Fall 2025.
 
 To learn more about what motivated me to take this step, see: [**"Making the Leap: Why I’m Finally Studying Computer Science."**]()
 
