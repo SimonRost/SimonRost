@@ -13,6 +13,7 @@
 At 36, I decided to pursue a lifelong passion for technology. After years of working in other fields and raising two kids, I’m now making a career change that truly matters to me: I'll be starting a **part-time Computer Science degree** in Fall 2025.
 
 To learn more about what motivated me to take this step, see: [**"Making the Leap: Why I’m Finally Studying Computer Science."**]()
+
 <br>
 <br>
 ---
