@@ -27,9 +27,6 @@ To learn more about what motivated me to take this step, see: [**"Making the Lea
 I learn by doing — building things, breaking things, writing about the process, and sharing the journey.  
 My goal is not to be flawless but to be consistent and curious.
 ```
-
-<br>
-
 ---
 
 <br>
