@@ -14,29 +14,6 @@ At 36, I decided to pursue a lifelong passion for technology. After years of wor
 
 To learn more about what motivated me to take this step, see: [**"Making the Leap: Why I’m Finally Studying Computer Science."**]()
 
-<br>
-
-Despite limited time, I taught myself during the last few months:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-<br>
-
-My approach is hands-on: I learn by building and sharing my journey. I believe real growth happens when we stop hiding behind perfection(ism) and start showing our progress. That's why I build <a href="https://www.simonrost.com" target="_blank" rel="noopener noreferrer">my homepage</a> and why I’m sharing all my learning projects **here on GitHub**:
-
-<p align="center">
-    <a href="https://github.com/simonrost/cs-learning-journey" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Learning%20Roadmap%20%26%20Projects-blue?style=for-the-badge&logo=github&logoColor=white" alt="cs-learning-journey" />
-    </a>
-</p>
-
-<br>
-
 ---
 
 ### My Philosophy
