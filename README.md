@@ -16,6 +16,7 @@ To learn more about what motivated me to take this step, see: [**"Making the Lea
 
 <br>
 <br>
+
 ---
 
 ### My Philosophy
